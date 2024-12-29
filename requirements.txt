@@ -1,0 +1,9 @@
+gradio==4.43.0
+matplotlib==3.6.3
+numpy==1.26.4
+opencv_python==4.9.0.80
+pandas==2.1.4
+tensorflow==2.16.1
+tf_bodypix==0.4.2
+torch==2.3.0
+tfjs_graph_converter
